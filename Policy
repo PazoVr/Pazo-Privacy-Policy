@@ -1,0 +1,87 @@
+1. Information We Collect
+We limit the information we collect to only what is necessary to support gameplay and ensure safety.
+
+a. Information from Children Under 13
+We may collect the following non-personal and persistent identifiers:
+
+Oculus User ID (used only to provide core gameplay)
+
+Session data (duration, movements, game progress)
+
+Device type and VR headset model
+
+PlayFab ID (to store basic game state and moderation logs)
+
+Reports submitted in-game (only stored with moderation data)
+
+We do not collect:
+
+Real names, email addresses, or phone numbers
+
+GPS location or precise geolocation
+
+Chat logs or voice recordings (we may detect voice activity for moderation, but do not store audio)
+
+b. Information from Parents and Guardians
+If your child participates in any optional features that require additional data (e.g., access to special parental tools or community features), we may request a parent’s email for consent and communication purposes.
+
+2. Parental Consent
+In compliance with COPPA, we:
+
+Do not collect personal information from children under 13 without verifiable parental consent
+
+Use Oculus platform parental controls and Meta's Kids App framework to ensure that children have proper approval to access Pazo VR
+
+Provide parents the ability to review, delete, or restrict the collection of their child’s information at any time
+
+If you are a parent and would like to manage your child’s data, please contact us at [Insert Contact Email].
+
+3. How We Use Collected Information
+We use the information collected from players to:
+
+Operate and improve Pazo VR
+
+Enable multiplayer functionality
+
+Prevent cheating or disruptive behavior
+
+Ensure game safety and compliance with platform rules
+
+4. Third-Party Services
+Pazo VR uses limited, COPPA-compliant third-party services:
+
+Photon (multiplayer networking)
+
+PlayFab (game state and account management)
+
+Meta/Oculus Platform (parental controls and permissions)
+
+These services are configured to operate within COPPA-compliant modes and do not collect personal data beyond what is necessary for core functionality.
+
+5. Data Sharing
+We do not share or sell personal information with third parties for marketing or advertising. We only share limited data as necessary to:
+
+Operate the game and provide multiplayer functionality
+
+Investigate reports of misuse or cheating
+
+Comply with platform requirements and legal obligations
+
+6. Security
+We implement technical and administrative safeguards to protect children’s data. This includes secure communication, restricted access, and minimal data storage practices.
+
+7. Parental Rights
+As a parent, you have the right to:
+
+Review the data we have collected from your child
+
+Request the deletion of your child’s data
+
+Refuse future collection of your child’s data
+
+To exercise these rights, please contact us at:
+📧 [Insert your support email]
+
+8. Data Retention
+We retain information only for as long as needed to operate the game, comply with legal requirements, and support moderation. Data related to user reports or misconduct may be retained longer for safety.
+
